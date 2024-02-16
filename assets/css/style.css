@@ -12,3 +12,14 @@ a,
 a.nav-link {
     color: inherit;
 }
+
+/* ----------Header/Navbar */
+
+#hamburger-icon {
+    color: #f7f7f7;
+    font-size: 2.5rem;
+}
+
+#nav-menu-btn {
+    border: 2px solid white;
+}
